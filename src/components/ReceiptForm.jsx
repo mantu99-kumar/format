@@ -111,7 +111,7 @@ const ReceiptForm = () => {
         </p>
 
         <p className="for-record">
-          <strong>For Record</strong>
+          <strong>For Record </strong>
         </p>
       </div>
 
