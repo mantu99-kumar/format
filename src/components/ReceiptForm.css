@@ -1,0 +1,239 @@
+/* .receipt-container {
+    width: 40%;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .receipt-title,
+  .receipt-subtitle {
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  .receipt-title {
+    font-size: 1.5rem;
+  }
+  
+  .receipt-subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .receipt-number {
+    text-align: right;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .receipt-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    font-size: 1rem;
+  }
+  
+  .receipt-date {
+    margin-top: 30px;
+    text-align: right;
+  }
+  
+  .receipt-details {
+    margin: 20px 0;
+  }
+  
+  .receipt-table {
+    width: 40%;
+    border-collapse: collapse;
+    
+  }
+  
+  .receipt-table th,
+  .receipt-table td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+  }
+  
+  .for-record {
+    border: 1px solid black;
+    padding: 5px 5px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 50px;
+  }
+  
+  .signature {
+    text-align: right;
+  }
+  
+  .footer-note {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+   */
+
+
+
+   /* 2 */
+
+   /* .form-container {
+    font-family: Arial, sans-serif;
+    margin: 20px auto;
+    border: 1px solid black;
+    padding: 20px;
+    width: 40%;
+  }
+  
+  .form-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .original-copy {
+    border: 1px solid black;
+    padding: 2px 8px;
+    font-weight: bold;
+  }
+  
+  .title-section {
+    text-align: center;
+    flex-grow: 1;
+  }
+  
+  .ref-no {
+    text-align: right;
+    font-weight: bold;
+  }
+  
+  .form-details .row {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .row .underline {
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    width: 300px;
+  }
+  
+  .requisition-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  .requisition-table th,
+  .requisition-table td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  .quantity-cell {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer {
+    margin: 20px 0;
+  }
+  
+  .signature-section {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+  }
+   */
+
+
+
+
+   /* 3 */
+
+   .form-container {
+  width: 800px;
+  margin: 20px auto;
+  font-family: 'Times New Roman', Times, serif;
+  border: 1px solid #000;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  text-align: center;
+}
+
+.top-text {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+.right-align {
+  text-align: right;
+}
+
+h2, h3 {
+  margin: 0;
+}
+
+.form-body p {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+.fees strong {
+  text-decoration: underline;
+}
+
+.table {
+  width: 100%;
+  border: 1px solid #000;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.table-header,
+.table-row {
+  display: flex;
+}
+
+.table-cell {
+  flex: 1;
+  border: 1px solid #000;
+  height: 40px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.footer-note {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.for-record {
+  display: inline-block;
+  padding: 2px 5px;
+  border: 1px solid #000;
+  font-weight: bold;
+}
+
+.signature {
+  text-align: right;
+  margin-top: 40px;
+  font-weight: bold;
+}
